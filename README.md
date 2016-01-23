@@ -2,4 +2,4 @@
 just to begin with another repo
 
 Hi...
-I have working on docker and trying to explore it.
+I am working on docker and trying to explore it.
